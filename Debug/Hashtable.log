@@ -1,0 +1,6 @@
+﻿  Hashtable.cpp
+C:\Users\GodHybrid\source\repos\Hashtable\Hashtable.h(57,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\GodHybrid\source\repos\Hashtable\Hashtable.h(160,1): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\GodHybrid\source\repos\Hashtable\Hashtable.h(173): message : see reference to class template instantiation 'TNode<InValue>' being compiled
+C:\Users\GodHybrid\source\repos\Hashtable\Hashtable.h(299,2): warning C4018: '<': signed/unsigned mismatch
+  Hashtable.vcxproj -> C:\Users\GodHybrid\source\repos\Hashtable\Debug\Hashtable.exe
